@@ -97,7 +97,7 @@ The dashboard starts with a custom Landing Page designed to provide a clear entr
 
 A high-level view of overall business performance including Total Revenue by Month and Top Product Categories.
 
-<p align="center"> <img src="Images/Screenshot 2026-09-04 220413.png" width="90%"> </p>
+<p align="center"> <img src="WhatsApp Image 2026-09-08 at 2.10.35 PM.jpeg" width="90%"> </p>
 2️⃣ Product Performance
 
 A detailed analysis of product categories, sales volume, and average prices.
