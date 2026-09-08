@@ -92,7 +92,7 @@ After downloading: Simply extract the folder and open project.pbix using Power B
 
 The dashboard starts with a custom Landing Page designed to provide a clear entry point for users.
 
-<p align="center"> <img src="Images/Screenshot 2026-09-04 220413.png" width="90%"> </p>
+<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.37 PM.jpeg" width="90%"> </p>
 1️⃣ Overview
 
 A high-level view of overall business performance including Total Revenue by Month and Top Product Categories.
