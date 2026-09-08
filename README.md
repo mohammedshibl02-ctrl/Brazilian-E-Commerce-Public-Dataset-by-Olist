@@ -1,4 +1,5 @@
 # Brazilian-E-Commerce-Public-Dataset-by-Olist
+# Brazilian-E-Commerce-Public-Dataset-by-Olist
 🛍️ Brazilian E-Commerce Analytics Dashboard
 <p align="center"> <img src="Images/Olist_ecommerce_analytics_banner_1280x720_true_quality.gif" width="90%"> </p>
 
@@ -97,17 +98,17 @@ The dashboard starts with a custom Landing Page designed to provide a clear entr
 
 A high-level view of overall business performance including Total Revenue by Month and Top Product Categories.
 
-<p align="center"> <img src="WhatsApp Image 2026-09-08 at 2.10.35 PM.jpeg" width="90%"> </p>
+<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.37 PM (1).jpeg" width="90%"> </p>
 2️⃣ Customer Analysis
 
 An analysis of customer distribution and revenue contribution across Brazilian states.
 
-<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.35 PM.jpeg" width="90%"> </p>
+<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.36 PM.jpeg" width="90%"> </p>
 3️⃣ Product Performance
 
 A detailed analysis of product categories, sales volume, and average prices.
 
-<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.36 PM.jpeg" width="90%"> </p>
+<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.35 PM.jpeg" width="90%"> </p>
 4️⃣ Delivery & Satisfaction
 
 An analysis of delivery performance and its relationship with customer review scores.
@@ -136,4 +137,4 @@ Open Dashboard: Open project.pbix (located inside the downloaded folder) using P
 
 Built as a portfolio data analytics project using the public Olist Brazilian E-Commerce Public Dataset.
 
-Connect with me on [LinkedIn](ضع رابط حسابك هنا) o
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-5a769741a?utm_source=share_via&utm_content=profile&utm_medium=member_android) o
