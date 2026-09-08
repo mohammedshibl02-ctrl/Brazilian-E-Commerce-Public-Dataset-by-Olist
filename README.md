@@ -107,7 +107,7 @@ A detailed analysis of product categories, sales volume, and average prices.
 
 An analysis of customer distribution and revenue contribution across Brazilian states.
 
-<p align="center"> <img src="Images/Screenshot 2026-09-07 134256.png" width="90%"> </p>
+<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.36 PM.jpeg" width="90%"> </p>
 4️⃣ Delivery & Satisfaction
 
 An analysis of delivery performance and its relationship with customer review scores.
