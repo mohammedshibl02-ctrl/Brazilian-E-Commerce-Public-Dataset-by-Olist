@@ -98,14 +98,14 @@ The dashboard starts with a custom Landing Page designed to provide a clear entr
 A high-level view of overall business performance including Total Revenue by Month and Top Product Categories.
 
 <p align="center"> <img src="WhatsApp Image 2026-09-08 at 2.10.35 PM.jpeg" width="90%"> </p>
-2️⃣ Product Performance
-
-A detailed analysis of product categories, sales volume, and average prices.
-
-<p align="center"> <img src="Images/Screenshot 2026-09-04 220434.png" width="90%"> </p>
-3️⃣ Customer Analysis
+2️⃣ Customer Analysis
 
 An analysis of customer distribution and revenue contribution across Brazilian states.
+
+<p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.35 PM.jpeg" width="90%"> </p>
+3️⃣ Product Performance
+
+A detailed analysis of product categories, sales volume, and average prices.
 
 <p align="center"> <img src="Images/WhatsApp Image 2026-09-08 at 2.10.36 PM.jpeg" width="90%"> </p>
 4️⃣ Delivery & Satisfaction
